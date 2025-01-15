@@ -1,6 +1,5 @@
 # Ramen: Tasty Noodle Dish Orginated from Japan
 ![](https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg)
-Sourced from Glebe Kitchen
 
 **Ramen**, a beloved dish with origins in Japan, has become a global sensation, captivating taste buds with its **rich** flavors, **diverse** styles, and cultural significance. This noodle soup, made from wheat noodles, savory broths, and an array of toppings, represents both culinary artistry and *comfort food*.
 
@@ -32,4 +31,5 @@ Instant ramen, invented in 1958 by Momofuku Ando, marked a turning point in the 
 ## References
 1. Tolley, John. “The Rarely Known Origin of Ramen.” Tasting Table, Tasting Table, 26 Jan. 2023, www.tastingtable.com/864915/the-rarely-known-origin-of-ramen/. 
 2. “Noodle Knowledge: Most Common Types of Ramen.” Common Types of Ramen, Institute of Culinary Education, www.ice.edu/blog/types-of-ramen. Accessed 15 Jan. 2025.
-3.  Frank. “Instant Ramen History and How It Changed the World.” Tokyo Ramen Tours, Tokyo Ramen Tours, 22 Mar. 2023, www.tokyoramentours.com/post/instant-ramen-history. 
+3. Frank. “Instant Ramen History and How It Changed the World.” Tokyo Ramen Tours, Tokyo Ramen Tours, 22 Mar. 2023, www.tokyoramentours.com/post/instant-ramen-history.
+4. Romain. “Tonkotsu Ramen at Home.” Glebe Kitchen, 22 Apr. 2021, glebekitchen.com/tonkotsu-ramen-home/.  
