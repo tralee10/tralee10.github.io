@@ -38,11 +38,11 @@ a > Build pizzas to customer's requests, handle money and register, cook pizzas 
 
 **FIFA Club World Cup Volunteer** (2025-2025)
 
-a> Assisted guests with disabilities by guiding them to their seats and ensuring an inclusive, accessible experience.
+a > Assisted guests with disabilities by guiding them to their seats and ensuring an inclusive, accessible experience.
 
 - Volunteered for **24 hours** total in 4 matches
 
-![]("C:\Users\travi\GitHub Work\MyWork458\Lab 01\sounders_cwc.jpg" "Seattle Sounders at the FIFA Club World Cup")
+![]("sounders_cwc.jpg" "Seattle Sounders at the FIFA Club World Cup")
 
 
 [University of Washington]: https://www.washington.edu/
