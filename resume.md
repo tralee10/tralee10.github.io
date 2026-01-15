@@ -42,7 +42,7 @@ Hello! This is a draft resume for Lab 1 in GEOG 458. The lab is to help us get u
 
 - Volunteered for **24 hours** total in 4 matches
 
-![]("img/sounders_cwc.jpg")
+![]("tralee10.github.io/img/sounders_cwc.jpg")
 
 
 [University of Washington]: https://www.washington.edu/
